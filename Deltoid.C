@@ -23,7 +23,7 @@ int main()
 			printf("\n");
 	}
 	
-	for (int a = 1; a < rows; a++){
+	for (int a = 1; a <= rows-1; a++){
 		for (int b = checker; b > 0; b--)
 			printf(" ");
 		for (int c = 1; c < 2*rows2-2; c++)
