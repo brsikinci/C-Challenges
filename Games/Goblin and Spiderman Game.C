@@ -2,8 +2,6 @@
 #include <stdlib.h> // Library for rand(); function.
 #include <time.h> // Library for calling time(); function to seed rand(); function.        
 
-// Barýþ Ýkinci 21995510 BÝL101-2 Assignment-4
-
 enum MoveS {SpiderSense, ShootWeb, AgilityAndSpeed}; // Moves of Green Goblin and Spider-Man.
 enum MoveG {JackOLantern, RazorBats, GhostBomb};
 
